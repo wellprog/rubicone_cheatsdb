@@ -32,7 +32,7 @@
 									<li class="hassubs active">
 										<a href="index.html">Главная</a>
 										<ul>
-											<li><a href="categories.html">Категории читов</a></li>
+											<li><a href="categories.php">Категории читов</a></li>
 											<li><a href="product.html">Читы</a></li>
 											<li><a href="cart.html">Корзина</a></li>
 											<li><a href="checkout.html">Покупка</a></li>
